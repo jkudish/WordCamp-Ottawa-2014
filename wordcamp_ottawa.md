@@ -9,6 +9,10 @@ Partnership Engineer at Automattic
 
 ---
 
+# Oh by the way, these slides are at http://slides.jkudish.com/
+
+---
+
 ![](developerwpcom.png)
 
 ---
