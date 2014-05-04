@@ -9,5 +9,5 @@ Presentation by:
 * [jkudish.com](http://jkudish.com)
 * [@jkudish](http://twitter.com/jkudish)
 
-You can view the slides as Markdown or PDF.
+You can view the slides as [Markdown](https://github.com/jkudish/WordCamp-Ottawa-2014/blob/master/wordcamp_ottawa.md) or [PDF](https://github.com/jkudish/WordCamp-Ottawa-2014/blob/master/the_slides.pdf).
 
